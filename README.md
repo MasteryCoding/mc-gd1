@@ -18,11 +18,7 @@ Game Development 1 (GD1) is a year long course developed for Mastery Coding's Hi
 
 In GD1, students learn about game development by developing games. The course teaches students to build five different projects, each demonstrating core development concepts for different genres as well as covering fundamental computer science topics including but not limited to: Control Structures, Collections, Data Structures, Object-Oriented Programming, Design Patterns, Event-Driven Architecture.
 
-### 
-
-# Project Descriptions
-
-## Unit 1 Project: Car Game
+### Unit 1 Project: Car Game
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-1/u1-1.gif" width=320 height=240/>
@@ -37,12 +33,12 @@ In GD1, students learn about game development by developing games. The course te
 
 An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
-### Topics
+#### Topics
 
 - Unity Interface
 - Unity Physics System
 
-## Unit 4 Project: Castle Attack
+### Unit 4 Project: Castle Attack
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-4/u4-1.gif" width=320 height=240/>
@@ -57,14 +53,14 @@ An educational project used by students in Mastery Coding's Game Development 1 c
 
 This project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
 
-### Topics
+#### Topics
 
 - Unity Physics System
 - Unity C# Scripting API
 - UI Design and Implementation
 - Unity Animation System
 
-## Unit 5 Project: Mojave Runner
+### Unit 5 Project: Mojave Runner
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/mc-gd1-unit-5/blob/main/readme-assets/u5-1.gif" width=320 height=240/>
@@ -79,12 +75,12 @@ This project is an educational project used by students in Mastery Coding’s Ga
 
 The *Mojave Runner* project teaches students how to build a 2D sidescrolling platformer using Unity's 2D sprite rendering system, the 2D physics system, and the Unity C# Scripting API.
 
-### Topics
+#### Topics
 
 - Unity 2D Sprite Rendering System
 - Unity 2D Physics System
 
-## Unit 6 Project: Alchemy Lab
+### Unit 6 Project: Alchemy Lab
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/mc-gd1-unit-6/blob/main/readme-assets/u6-1.gif" width=320 height=240/>
@@ -99,12 +95,12 @@ The *Mojave Runner* project teaches students how to build a 2D sidescrolling pla
 
 The *Alchemy Lab* project teaches students how to build a first-person interactive adventure / escape room. In this project students use the Unity C# Scripting API to build a first-person movement and camera system as well as an even-driven system for interactions and objectives.
 
-### Topics
+#### Topics
 * First-person camera and movement control
 - Unity C# Scripting API
 - Event-driven architecture to handle player interactions and objectives.
 
-## Unit 7 Project: Tower Defense
+### Unit 7 Project: Tower Defense
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-2.gif" width=320 height=240/>
@@ -119,7 +115,7 @@ The *Alchemy Lab* project teaches students how to build a first-person interacti
 
 The *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
 
-### Topics
+#### Topics
 
 - Data Scructures
 - C# Collections
